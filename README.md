@@ -1,4 +1,4 @@
-## 👋 Hi, my name is Vladimir Chernitevich, a am QA Engineer from Moscow City 🕌 , Russian Federation 
+## 👋 Hi, my name is Vladimir Chernitevich, i'm QA Engineer from Moscow City 🕌 , Russian Federation 
 - 👀 I’m interested in QA Automation, include methodologies, technologies and tools
 - 📖 And i’m continue learning programming languages for my automation tests
 - 🤝 I will be glad to collaborate on interests
